@@ -23,4 +23,4 @@ License URI: https://www.portmone.com.ua/r3/uk/security/
 == Installation ==
 1. Upload plugin directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the `Plugins` menu in WordPress
-3. After activation, you can set options from `WooCommerce -> Settings -> Payment (tab "Portmone"
+3. After activation, you can set options from `WooCommerce -> Settings -> Payment (tab "Portmone")
