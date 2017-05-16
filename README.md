@@ -13,7 +13,7 @@ License URI: https://www.portmone.com.ua/r3/uk/security/
 Этот плагин добавляет Portmone в качестве способа оплаты в ваш магазин WooCommerce. Portmone может безопасно, быстро и легко принять VISA и MasterCard в вашем магазине за считанные минуты. Простые и понятные цены, первоклассный анализ мошенничества и круглосуточная поддержка.
 
 = Start with Portmone =
-[Create Free Portmone Account](https://www.portmone.com.ua/r3/ru/)
+[Create Free Portmone Account](https://www.portmone.com.ua/r3/ecommerce/sign-up)
 
 = Features =
 
